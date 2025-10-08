@@ -223,7 +223,7 @@
         <!-- Portfolio Items -->
         <div class="row g-4">
           <!-- Project 1 -->
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-6 col-md-6">
             <div
               class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative"
             >
@@ -247,7 +247,7 @@
           </div>
 
           <!-- Project 3 -->
-<div class="col-lg-4 col-md-6">
+<div class="col-lg-6 col-md-6">
   <div class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative">
     <img
       src="images/aipdf.png"
@@ -269,7 +269,7 @@
 
 
           <!-- Project 2 -->
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-6 col-md-6">
             <div
               class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative"
             >
