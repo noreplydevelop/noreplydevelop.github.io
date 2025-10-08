@@ -246,6 +246,28 @@
             </div>
           </div>
 
+          <!-- Project 3 -->
+<div class="col-lg-4 col-md-6">
+  <div class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative">
+    <img
+      src="images/aipdf.png"
+      alt="AI PDF Summarizer"
+      class="img-fluid portfolio-img"
+    />
+    <div
+      class="portfolio-info d-flex align-items-center justify-content-center text-center"
+    >
+      <div class="caption text-white px-3">
+        <h4 class="fw-bold">AI Chat & PDF Summarizer</h4>
+        <p class="small">
+          AI that can read and summarize PDF content automatically, or just type your question below to start chatting via the Gemini API integration.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
           <!-- Project 2 -->
           <div class="col-lg-4 col-md-6">
             <div
