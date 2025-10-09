@@ -291,6 +291,37 @@
               </div>
             </div>
           </div>
+
+
+          <!-- Project: QR Attendance System -->
+<div class="col-lg-6 col-md-6">
+  <div
+    class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative"
+  >
+    <img
+      src="images/scanhr.png"
+      alt="QR Attendance System"
+      class="img-fluid portfolio-img"
+    />
+    <div
+      class="portfolio-info d-flex align-items-center justify-content-center text-center"
+    >
+      <div class="caption text-white px-3">
+        <h4 class="fw-bold">Dynamic QR Attendance System</h4>
+        <p class="small">
+          A web-based attendance system that generates unique QR codes for each
+          session or shift, allowing employees to scan and record attendance
+          instantly via a secure token-based validation.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+          
         </div>
       </div>
     </section>
