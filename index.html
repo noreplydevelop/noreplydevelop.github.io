@@ -319,6 +319,32 @@
 </div>
 
 
+          <!-- Project: Live Weather Information -->
+<div class="col-lg-6 col-md-6">
+  <div
+    class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative"
+  >
+    <img
+      src="images/bmkg.png"
+      alt="Live Weather Information"
+      class="img-fluid portfolio-img"
+    />
+    <div
+      class="portfolio-info d-flex align-items-center justify-content-center text-center"
+    >
+      <div class="caption text-white px-3">
+        <h4 class="fw-bold">Live Weather Monitoring System</h4>
+        <p class="small">
+          An interactive weather information platform powered by real-time BMKG data,
+          featuring location markers, temperature updates, wind conditions, and dynamic
+          map visualization for faster and more accurate decision-making.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 
           
