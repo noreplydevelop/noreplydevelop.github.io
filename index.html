@@ -345,6 +345,30 @@
 </div>
 
 
+<!-- Project: Live Route & Traffic Monitoring -->
+<div class="col-lg-6 col-md-6">
+  <div
+    class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative"
+  >
+    <img
+      src="images/macet.png"
+      alt="Live Route & Traffic Monitoring"
+      class="img-fluid portfolio-img"
+    />
+    <div
+      class="portfolio-info d-flex align-items-center justify-content-center text-center"
+    >
+      <div class="caption text-white px-3">
+        <h4 class="fw-bold">Live Route & Traffic Monitoring System</h4>
+        <p class="small">
+          A real-time navigation system that provides your current location,
+          interactive route planning, traffic density visualization, and voice alerts
+          to help you make better travel decisions.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
           
