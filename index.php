@@ -371,6 +371,33 @@
 </div>
 
 
+          <!-- Project: Cookie Conveyor Object Detection & Counting -->
+<div class="col-lg-6 col-md-6">
+  <div
+    class="portfolio-box shadow-lg rounded-3 overflow-hidden position-relative"
+  >
+    <img
+      src="images/cookies_conveyor.png"
+      alt="YOLOv8 Cookie Conveyor Object Detection"
+      class="img-fluid portfolio-img"
+    />
+    <div
+      class="portfolio-info d-flex align-items-center justify-content-center text-center"
+    >
+      <div class="caption text-white px-3">
+        <h4 class="fw-bold">Cookie Conveyor Object Detection & Counting</h4>
+        <p class="small">
+          Real-time cookie detection and counting system using YOLOv8 on a conveyor belt.
+          The model detects each cookie, tracks its movement, and counts objects accurately
+          when passing a virtual counting line, suitable for FMCG production monitoring.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
           
         </div>
       </div>
